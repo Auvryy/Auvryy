@@ -61,17 +61,6 @@ const skills = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arc-andy-dev&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-andy-dev&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## Connect with Me
 
