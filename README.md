@@ -91,7 +91,7 @@ const skills = {
 
 ### 💫 "Sabi ni mama parang robot daw ako, kasi kaylangan pang sabihan para kumilos" 💫
 
-![Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFrdHB5a2gzY2xxMjMxN3h6cHM3ajljaG94MWFvamhkeGFmdmd1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auvryy&show_icons=true&theme=radical)
 
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
@@ -100,6 +100,7 @@ const skills = {
 ---
 
 <div align="center">
+
 
 ⭐️ From [Andy Gabriel Sarne](https://github.com/arc-andy-dev)
 
