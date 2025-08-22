@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Welcome to my GitHub! It's me **Andy Gabriel Sarne**, a passionate developer on an exciting journey through the world of technology. Medyo mahilig mag build ng mga bagay that matter and I constantly pushing my boundaries to learn new technologies and frameworks. I also use Arch Linux BTW
+Welcome to my GitHub! It's me **Andy Gabriel Sarne**, a BSIT student at Laguna State Polytechnic University (LSPU). passionate developer on an exciting journey through the world of technology. I also use Arch Linux BTW
 
 ---
 
@@ -71,6 +71,7 @@ const skills = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sarneandy636)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/auvrry)
 [![Original GitHub](https://img.shields.io/badge/Original_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auvryy)
+<br> Email: sarneandy6@gmail.com
 
 </div>
 
