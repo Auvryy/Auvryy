@@ -6,9 +6,9 @@
 
 <div align="center">
   
-[![GitHub stars](https://img.shields.io/github/stars/arc-andy-dev?style=social)](https://github.com/arc-andy-dev)
-[![GitHub followers](https://img.shields.io/github/followers/arc-andy-dev?style=social)](https://github.com/arc-andy-dev)
-[![Profile views](https://komarev.com/ghpvc/?username=arc-andy-dev&color=brightgreen&style=flat-square)](https://github.com/arc-andy-dev)
+[![GitHub stars](https://img.shields.io/github/stars/Auvryy?style=social)](https://github.com/Auvryy)
+[![GitHub followers](https://img.shields.io/github/followers/Auvryy?style=social)](https://github.com/Auvryy)
+[![Profile views](https://komarev.com/ghpvc/?username=Auvryy&color=brightgreen&style=flat-square)](https://github.com/Auvryy)
 
 </div>
 
@@ -102,6 +102,6 @@ const skills = {
 <div align="center">
 
 
-⭐️ From [Andy Gabriel Sarne](https://github.com/arc-andy-dev)
+⭐️ From [Andy Gabriel Sarne](https://github.com/Auvryy)
 
 </div>
