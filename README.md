@@ -90,7 +90,7 @@ const skills = {
 
 <div align="center">
 
-### 💫 "Sabi ni mama parang robot daw ako, kasi kaylangan pang sabihan para kumilos" 💫
+### 💫 "Consciousness is what makes us ourselves" 💫
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auvryy&show_icons=true&theme=radical)
 
